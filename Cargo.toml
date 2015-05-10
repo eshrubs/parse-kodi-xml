@@ -1,0 +1,7 @@
+[package]
+name = "parse-kodi-xml"
+version = "0.1.0"
+authors = ["Evan Shrubsole <eshr@spotify.com>"]
+
+[dependencies.xml-rs]
+version = "*"
